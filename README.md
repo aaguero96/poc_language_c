@@ -9,11 +9,11 @@ This project based on to create a simple user interface to create, list and dele
     - gcc installed on computer with version => gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0
 
 - Clone this repository:
-`git clone https://github.com/aaguero96/poc_language_c.git` for HTTPS
-`git clone git@github.com:aaguero96/poc_language_c.git` for SSH
+    - `git clone https://github.com/aaguero96/poc_language_c.git` for HTTPS
+    - `git clone git@github.com:aaguero96/poc_language_c.git` for SSH
 
 - Generate main.exe
-`gcc main.c service.c repository_bin.c -o main`
+    - `gcc main.c service.c repository_bin.c -o main`
 
 - Execute main
-`./main`
+    - `./main`

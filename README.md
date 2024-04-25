@@ -1,7 +1,7 @@
 # poc_language_c
 
 1. Definition
-    This project based on to create a simple user interface to create, list and delete contacts, the business rule consists on create with first name, last name, phone number (+DDD) and email, delete is based just on phone number (+DDD) and the persistance happen on binary file with max entries is 255.
+    - This project based on to create a simple user interface to create, list and delete contacts, the business rule consists on create with first name, last name, phone number (+DDD) and email, delete is based just on phone number (+DDD) and the persistance happen on binary file with max entries is 255.
 
 2. Run local
 - Recomendations
